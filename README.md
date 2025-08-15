@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed aka @iqbal-devpy
-- 👀 I’m interested in Ai engineering
-- 🌱 I’m currently learning Deep Learning and Data analysis
-- 💞️ I’m looking to collaborate on projects to elevate my experience
-- 📫 How to reach me dev.iqbal3@gmail.com or my linkedin www.linkedin.com/in/ahmed-iqbal-4456ab301
+- 👀 While having an intrest in Ai Engineering, working on real-time projects to upskill myself. 
+- 🌱 Currently working on Gen AI and Machine Learning
+- 💞️ Looking forward to collaborate in projects to share and gain experience.
+- 📫 Feel free to reach out to me at dev.iqbal3@gmail.com or my linkedin www.linkedin.com/in/ahmed-iqbal-4456ab301
