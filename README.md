@@ -1,12 +1,12 @@
 # Hi, I'm Iqbal 👋
 
-**Junior AI Developer | Python Enthusiast | Gen AI Explorer**
+**AI Engineer | Python Enthusiast | Gen AI Explorer**
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate Junior AI Developer with a focus on building intelligent applications that make a real-world impact. My journey started with Python and has grown into creating solutions with FastAPI, Gen AI frameworks, and modern web tech like React.
+I'm a passionate AI Engineer with a focus on building intelligent applications that make a real world impact. My journey started with Python and has grown into creating solutions with FastAPI, Gen AI frameworks, and modern web tech like React.
 
 - 🧠 **AI Development & Machine Learning:** Exploring models, LLMs, and innovative Gen AI tools.
 - 💬 **Medical Chatbot:** Proud creator of a medical chatbot aimed at making healthcare advice more accessible.
