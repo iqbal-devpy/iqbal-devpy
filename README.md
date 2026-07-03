@@ -6,8 +6,8 @@
 **Real users. Real traffic. Real failure modes.**
 
 [![Email](https://img.shields.io/badge/Email-dev.iqbal3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.iqbal3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ahmed-iqbal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github&logoColor=white)](https://iqbal-devpy.github.io/)
 
 </div>
 
