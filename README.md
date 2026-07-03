@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm Iqbal
+# ⚡ Hi, I'm Ahmed
 
 ### I build LLM systems that survive production.
 **Real users. Real traffic. Real failure modes.**
